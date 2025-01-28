@@ -1,9 +1,12 @@
+/* Change the background color for the entire page */
 body {
+    background-color: lightblue; /* Replace 'lightblue' with your desired color */
+    color: black; /* Adjust text color for better readability */
     font-family: Arial, sans-serif;
-    background-color:#FF0000;
     margin: 0;
-    padding: 20px;
+    padding: 0;
 }
+
 
 h1 {
     color: #333;
